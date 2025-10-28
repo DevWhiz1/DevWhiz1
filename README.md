@@ -21,7 +21,7 @@ I love working with modern technologies and creating solutions that make a diffe
 
 ---
 
-### 🧠 Languages and Tools
+### 🧠 Programming Languages
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -33,6 +33,8 @@ I love working with modern technologies and creating solutions that make a diffe
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
+    <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=rag&logoColor=white" alt="RAG" width="80" height="40"/></a>
 </p>
 
 #### 🧰 Tools & DevOps
@@ -51,16 +53,4 @@ I love working with modern technologies and creating solutions that make a diffe
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwhiz1&show_icons=true&locale=en&layout=compact" alt="devwhiz1" /></p>
-<br>
 
-## 🌟 Featured Projects
-
-### 🤖 AI-Powered Applications
-- **Hikma AI** – Intelligent AI assistant built with LangChain and RAG  
-- **Urban CRM Frontend** – Modern React-based customer relationship management system  
-
-<br/>
-
-### 🏢 Enterprise Solutions
-- **BMS CRM** – Business management system with advanced analytics  
-- **Cloud Services IoT** – Comprehensive IoT platform for enterprise clients  
